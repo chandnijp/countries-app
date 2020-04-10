@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Image1](https://github.com/chandnijp/countries-app/tree/master/src/assets/images/countries-app(1))
+![Image1](https://github.com/chandnijp/countries-app/blob/master/src/assets/images/countries-app(1).jpg)
 
-![Image2](https://github.com/chandnijp/countries-app/tree/master/src/assets/images/countries-app(2))
+![Image2](https://github.com/chandnijp/countries-app/blob/master/src/assets/images/countries-app(2).jpg)
 
-![Image3](https://github.com/chandnijp/countries-app/tree/master/src/assets/images/countries-app(3))
+![Image3](https://github.com/chandnijp/countries-app/blob/master/src/assets/images/countries-app(3).jpg)
 
 ## Available Scripts
 
